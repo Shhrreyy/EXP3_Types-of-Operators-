@@ -2,9 +2,8 @@
 
 ## 🔰 Aim
 
-To understand and implement **decision-making statements** in C++ using:
+To understand and implement **different types of operators** in C++ using:
 - `if`, `else if`, and `else` conditions
-- Nested conditionals
 
 This experiment includes:
 1. Determining whether a number is positive, negative, or zero.
@@ -14,8 +13,6 @@ This experiment includes:
 ---
 
 ## 📚 Theory
-
-Conditional statements allow a program to **make decisions** based on certain conditions. The most common forms include:
 
 - `if` — Executes a block if a condition is true.
 - `else if` — Tests another condition if the previous one was false.
